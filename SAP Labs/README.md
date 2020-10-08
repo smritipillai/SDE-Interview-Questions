@@ -8,6 +8,8 @@ ____
 - Given an array of strings dates[], the task is to sort these dates in ascending order.Each date is of the form dd/mm/yyyy.
 
 - Print pair of numbers from given array having minimum absolute value.
+
+-  Count all distinct pairs with difference equal to K.
 <br>
 <br>
 <b name="tech">First Technical Interview</b>
