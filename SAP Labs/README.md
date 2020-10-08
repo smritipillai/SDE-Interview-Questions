@@ -9,7 +9,7 @@ ____
 
 - Print pair of numbers from given array having minimum absolute value.
 
--  Count all distinct pairs with difference equal to K.
+- Count all distinct pairs with difference equal to K.
 <br>
 <br>
 <b name="tech">First Technical Interview</b>
