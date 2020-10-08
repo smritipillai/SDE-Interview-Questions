@@ -27,6 +27,8 @@ For example, an input of M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 should
 - Given two sorted linked lists, merge them so that the resulting linked list is also sorted.
 
 - Check if a given tree is a subtree of another binary tree.  
+
+- Search for a given number in a row-wise and column-wise sorted matrix.
 </br>
 
 ----
